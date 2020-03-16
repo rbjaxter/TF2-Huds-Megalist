@@ -50,7 +50,7 @@ FesHud	|	festive_	|	[Album](https://imgur.com/a/yKezGCk)	|		|		|	[GameBanana](ht
 FK Hud	|	Colly	|	[Album](https://imgur.com/a/BM9vJ)	|	[GitHub](https://github.com/Hypnootize/FK-Hud)	|		|		|	[Download](https://github.com/Hypnootize/FK-Hud/archive/master.zip)
 Flame Hud	|	Flame	|	[Album](https://imgur.com/a/NHBdv)	|	[GitHub](https://github.com/Hypnootize/Flame-Hud)	|	[Steam](https://steamcommunity.com/groups/flamehud)	|	[TFTV](https://www.teamfortress.tv/28572/flamehud-reborn)	|	[Download](https://github.com/Hypnootize/Flame-Hud/archive/master.zip)
 Flarepunch	|	omnibombulator	|	[Album](https://imgur.com/a/RFFlIS9)	|	[GitHub](https://github.com/omnibombulator/Flarepunch)	|		|	[TFTV](https://www.teamfortress.tv/48113/hud-flarepunch)	|	[Download](https://github.com/omnibombulator/Flarepunch/archive/master.zip)
-Flat Hud	|	Flatline	|	[Album](https://imgur.com/a/k8Dff)	|	[GitHub](https://github.com/Hypnootize/Flat-Hud	|	[Steam](https://steamcommunity.com/groups/flathud)	|		|	[Download](https://github.com/Hypnootize/Flat-Hud/archive/master.zip)
+Flat Hud	|	Flatline	|	[Album](https://imgur.com/a/k8Dff)	|	[GitHub](https://github.com/Hypnootize/Flat-Hud)	|	[Steam](https://steamcommunity.com/groups/flathud)	|		|	[Download](https://github.com/Hypnootize/Flat-Hud/archive/master.zip)
 FlawHUD	|	CriticalFlaw	|	[Album](https://imgur.com/a/0whDjXr)	|	[GitHub](https://github.com/CriticalFlaw/FlawHUD)	|	[Steam](https://steamcommunity.com/groups/FlawHUD)	|	[GameBanana](https://gamebanana.com/guis/32187)	|	[Download](https://github.com/CriticalFlaw/FlawHUD/archive/master.zip)
 Franken Hud	|	The Kins	|	[Screen](https://files.gamebanana.com/img/ss/guis/24353b.jpg)	|	[GitHub](https://github.com/thekins/frankenhud/)	|	[Steam](https://steamcommunity.com/groups/frankenhud)	|	[GameBanana](https://gamebanana.com/guis/24353)	|	[Download](https://github.com/TheKins/frankenhud/archive/master.zip)
 Garm3n 4MP	|	Garm3n	|	[Screen](https://imgur.com/a/zbk2fuk)	|		|		|		|	[Download](https://www.dropbox.com/s/a74ryegqggl3enq/Garm3n%204MP.rar?dl=0)
@@ -171,7 +171,9 @@ Zoub Hud	|	Zoub	|	[Album](https://imgur.com/a/ie9GL)	|	[GitHub](https://github.c
 # OUT OF DATE HUDS												
 												
 Archive of huds that are no longer maintained and therefore are missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.												
+												
 Adding a info.vdf file to these huds will make them work if you want to check them out! follow this little [guide](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20the%20info.vdf.md) to learn how!												
+												
 That said the outdated huds hosted on my dropbox (pretty much every dropbox link down there) should already have a info.vdf setup and should at least work, still very outdated but they work :D												
 												
 HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	Discussion Thread	|	Direct Download
