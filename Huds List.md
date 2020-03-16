@@ -1,3 +1,7 @@
+# HUDS LIST												
+												
+Includes all the up to date tf2 huds gathered from different sources.												
+												
 HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	Discussion Thread	|	Direct Download
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	-----------------	|	---------------
 1 Shot	|		|	[Album](https://imgur.com/a/HieQg)	|	[GitHub](https://github.com/Hypnootize/1-Shot-Hud)	|		|		|	[Download](https://github.com/Hypnootize/1-Shot-Hud/archive/master.zip)
@@ -163,6 +167,13 @@ Zhud	|	reika	|	[Album](https://imgur.com/a/3LOOs)	|	[GitHub](https://github.com/
 Zephyr Hud	|	Alex_f	|	[Album](https://imgur.com/a/fJXZ90x)	|		|		|	[TFTV](https://www.teamfortress.tv/52877/zephyrhud)	|	[Download](https://www.dropbox.com/s/mlqzfnmcak00g5r/zephyrhud.zip?dl=0)
 Zim Hud	|	Zimmy	|	[Album](https://imgur.com/a/kw4Ou)	|	[GitHub](https://github.com/Hypnootize/Zim-Hud)	|		|	[TFTV](https://www.teamfortress.tv/17805/zimhud)	|	[Download](https://github.com/Hypnootize/Zim-Hud/archive/master.zip)
 Zoub Hud	|	Zoub	|	[Album](https://imgur.com/a/ie9GL)	|	[GitHub](https://github.com/Hypnootize/Zoub-Hud)	|		|		|	[Download](https://github.com/Hypnootize/Zoub-Hud/archive/master.zip)
+
+# OUT OF DATE HUDS												
+												
+Archive of huds that are no longer maintained and therefore are missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.												
+Adding a info.vdf file to these huds will make them work if you want to check them out! follow this little [guide](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20the%20info.vdf.md) to learn how!												
+That said the outdated huds hosted on my dropbox (pretty much every dropbox link down there) should already have a info.vdf setup and should at least work, still very outdated but they work :D												
+												
 HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	Discussion Thread	|	Direct Download
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	-----------------	|	---------------
 8Bit Hud	|		|		|		|		|		|	[Download](https://www.dropbox.com/s/mwwf6965ce9b1q6/8Bit%20Hud.rar?dl=0)
